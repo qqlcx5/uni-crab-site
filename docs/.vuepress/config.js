@@ -1,9 +1,9 @@
 const plugins = require('./config/plugins');
 const themeConfig = require('./config/theme');
 module.exports = {
-  base: '/vuepress-template/',
-  title: '个人博客',
-  description: 'vuepress、前端、博客、个人博客',
+  base: '/uni-crab-site/',
+  title: 'uni-crab UI',
+  description: 'uni-crab、uni-crab UI、前端、微信小程序、uni-app、小程序',
   head: [
     ['link', { rel: 'icon', href: 'https://cdn.jsdelivr.net/gh/qqlcx5/figure-bed@1.1/img/1.png' }],
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
