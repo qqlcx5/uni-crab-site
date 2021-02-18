@@ -1,7 +1,7 @@
 ---
 home: true
-heroImage: 'https://cdn.jsdelivr.net/gh/qqlcx5/figure-bed@1.1/img/logo.jpg'
-heroText: 前端元
+heroImage: 'https://cdn.jsdelivr.net/gh/qqlcx5/figure-bed@v1.0.0/image/crab_logo.png'
+heroText: uni-crab
 tagline: A magical uni-crab UI
 actionText: 点击开始 →
 actionLink: /指南/01.介绍
