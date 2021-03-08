@@ -1,8 +1,8 @@
 ---
 home: true
 heroImage: 'https://cdn.jsdelivr.net/gh/qqlcx5/figure-bed@v1.0.0/image/crab_logo.png'
-heroText: 前端有道
-tagline: A magical 微信公众号
+heroText: uni-crab
+tagline: A magical uni-crab UI
 actionText: 点击开始 →
 actionLink: /组件/10.开发指南/01.介绍
 
