@@ -7,9 +7,9 @@ actionText: 点击开始 →
 actionLink: /组件/10.开发指南/01.介绍
 
 features:
-  - title: 侧边栏分组
-    details: 根据目录自动生成侧边栏分组，避免文件名写错造成侧边栏异常的问题。
-  - title: uni-crab-site
-    details: 轻量、便捷、简洁静态网站
+  - title: crab
+    details: 多平台快速开发的UI框架
+  - title: crab
+    details: 轻量、以众不同
 footer: MIT Licensed | Copyright © 2020-present lcx
 ---

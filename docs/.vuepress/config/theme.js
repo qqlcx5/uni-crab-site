@@ -11,11 +11,13 @@ const themeConfig = {
   editLinks: true,
   smoothScroll: true,
   lastUpdated: '最后更新时间',
+  logo: 'https://cdn.jsdelivr.net/gh/qqlcx5/figure-bed@v1.0.0/image/crab.png',
   nav: [{
         text: '指南',
         link: '/组件/10.开发指南/01.介绍',
-      }
-      
+      },
+      { text: 'Github', link: 'https://github.com/qqlcx5/uni-crab' },
+      { text: 'Github Pages', link: 'https://qqlcx5.github.io/uni-crab-site/' },
   ],
   
   sidebar: {
