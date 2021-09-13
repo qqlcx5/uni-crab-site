@@ -1,9 +1,9 @@
 const path = require('path'); // 路径模块
 const utilsRoot = path.join(__dirname, '..', 'utils');
 const docsRoot = path.join(__dirname,'..', '..');
-const readFile = require(utilsRoot + '/readFile');
+const readDirFile = require(utilsRoot + '/readDirFile');
 
-const 组件 = readFile(docsRoot + '/组件');
+const 组件 = readDirFile(docsRoot + '/组件');
 
 
 
